@@ -1,0 +1,20 @@
+{
+  "name": "lineabridgemessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@consensys/linea-sdk": "^0.3.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "nodemon": "^3.1.4",
+    "web3": "^4.11.1"
+  }
+}
