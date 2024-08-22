@@ -41,3 +41,10 @@ The script consists of two main functions:
 
 2. `getMessagesByTransactionHash(hash)`: This asynchronous function uses the Linea SDK to retrieve messages from the Linea network based on a provided transaction hash. Using in startMessageSentEventMonitoring function.
 
+
+## Example Output
+
+![Alt Text](2435454.png)
+
+
+
